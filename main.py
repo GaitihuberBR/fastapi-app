@@ -4,5 +4,5 @@ app = FastAPI()
  
 @app.get("/")
 def home():
-    return {"message": "Render works 🚀"}
+    return {"message": "Render funguje. Honzik a Pavel, 2026."}
  
